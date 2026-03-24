@@ -1,0 +1,178 @@
+{
+  "sidebarInstallation": [
+    {
+      "type": "category",
+      "label": "Explanation",
+      "collapsible": true,
+      "collapsed": false,
+      "items": [
+        "keploy-explained/introduction",
+        "keploy-explained/how-keploy-works"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Installation",
+      "collapsible": true,
+      "collapsed": false,
+      "items": [
+        "server/server-installation",
+        "server/sdk-installation"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Concepts",
+      "collapsible": true,
+      "collapsed": false,
+      "items": [
+        "concepts/what-is-keploy",
+        "concepts/what-are-keploy-features",
+        "concepts/what-is-keploy-sdk",
+        "concepts/what-are-keploy-sdk-modes"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Operations",
+      "collapsible": true,
+      "collapsed": false,
+      "link": {
+        "type": "doc",
+        "id": "operation/index"
+      },
+      "items": [
+        "operation/record-operations",
+        "operation/test-operations",
+        "operation/browser-extension-operations"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Golang",
+      "collapsible": true,
+      "collapsed": true,
+      "link": {
+        "type": "doc",
+        "id": "go/quickstart/index"
+      },
+      "items": [
+        {
+          "type": "doc",
+          "label": "Installation",
+          "key": "go-installation",
+          "id": "go/installation"
+        },
+        {
+          "type": "doc",
+          "label": "Integration",
+          "key": "go-integration",
+          "id": "go/integration"
+        },
+        {
+          "type": "doc",
+          "label": "Record Test",
+          "key": "go-record",
+          "id": "go/record"
+        },
+        {
+          "type": "doc",
+          "label": "Replay Test ",
+          "key": "go-replay",
+          "id": "go/replay"
+        },
+
+        {
+          "type": "category",
+          "label": "Sample Quickstarts",
+          "key": "go-sample-quickstarts",
+          "collapsible": true,
+          "collapsed": true,
+          "link": {
+            "type": "doc",
+            "id": "go/quickstart/index"
+          },
+          "items": [
+            "go/quickstart/echo-sql",
+            "go/quickstart/gin-mongo",
+            "go/quickstart/gin-mongo-2",
+            "go/quickstart/gorillamux-redis"
+          ]
+        },
+        {
+          "type": "link",
+          "label": "Go Pkg Reference",
+          "href": "https://pkg.go.dev/github.com/keploy/go-sdk"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Java",
+      "collapsible": true,
+      "collapsed": true,
+      "link": {
+        "type": "doc",
+        "id": "java/quickstart/index"
+      },
+      "items": [
+        {
+          "type": "doc",
+          "label": "Installation",
+          "key": "java-installation",
+          "id": "java/installation"
+        },
+        {
+          "type": "doc",
+          "label": "Integration",
+          "key": "java-integration",
+          "id": "java/integration"
+        },
+        {
+          "type": "doc",
+          "label": "Record Test",
+          "key": "java-record",
+          "id": "java/record"
+        },
+        {
+          "type": "doc",
+          "label": "Replay Test ",
+          "key": "java-replay",
+          "id": "java/replay"
+        },
+        {
+          "type": "category",
+          "label": "Sample Quickstarts",
+          "key": "java-sample-quickstarts",
+          "collapsible": true,
+          "collapsed": true,
+          "link": {
+            "type": "doc",
+            "id": "java/quickstart/index"
+          },
+          "items": [
+            "java/quickstart/spring-sql"
+          ]
+        },
+        {
+          "type": "link",
+          "label": "Maven Reference",
+          "href": "https://search.maven.org/artifact/io.keploy/keploy-sdk"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Typescript SDK",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        "typescript/installation",
+        "typescript/generate-tests",
+        "typescript/supported-frameworks",
+        "typescript/mock-library",
+        "typescript/testing"
+      ]
+    }
+  ]
+}

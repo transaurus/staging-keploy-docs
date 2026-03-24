@@ -1,0 +1,82 @@
+{
+  "version.label": {
+    "message": "1.0.0",
+    "description": "The label for version 1.0.0"
+  },
+  "sidebar.sidebarInstallation.category.Explanation": {
+    "message": "Explanation",
+    "description": "The label for category 'Explanation' in sidebar 'sidebarInstallation'"
+  },
+  "sidebar.sidebarInstallation.category.Installation": {
+    "message": "Installation",
+    "description": "The label for category 'Installation' in sidebar 'sidebarInstallation'"
+  },
+  "sidebar.sidebarInstallation.category.Concepts": {
+    "message": "Concepts",
+    "description": "The label for category 'Concepts' in sidebar 'sidebarInstallation'"
+  },
+  "sidebar.sidebarInstallation.category.Operations": {
+    "message": "Operations",
+    "description": "The label for category 'Operations' in sidebar 'sidebarInstallation'"
+  },
+  "sidebar.sidebarInstallation.category.Golang": {
+    "message": "Golang",
+    "description": "The label for category 'Golang' in sidebar 'sidebarInstallation'"
+  },
+  "sidebar.sidebarInstallation.category.go-sample-quickstarts": {
+    "message": "Sample Quickstarts",
+    "description": "The label for category 'Sample Quickstarts' in sidebar 'sidebarInstallation'"
+  },
+  "sidebar.sidebarInstallation.category.Java": {
+    "message": "Java",
+    "description": "The label for category 'Java' in sidebar 'sidebarInstallation'"
+  },
+  "sidebar.sidebarInstallation.category.java-sample-quickstarts": {
+    "message": "Sample Quickstarts",
+    "description": "The label for category 'Sample Quickstarts' in sidebar 'sidebarInstallation'"
+  },
+  "sidebar.sidebarInstallation.category.Typescript SDK": {
+    "message": "Typescript SDK",
+    "description": "The label for category 'Typescript SDK' in sidebar 'sidebarInstallation'"
+  },
+  "sidebar.sidebarInstallation.link.Go Pkg Reference": {
+    "message": "Go Pkg Reference",
+    "description": "The label for link 'Go Pkg Reference' in sidebar 'sidebarInstallation', linking to 'https://pkg.go.dev/github.com/keploy/go-sdk'"
+  },
+  "sidebar.sidebarInstallation.link.Maven Reference": {
+    "message": "Maven Reference",
+    "description": "The label for link 'Maven Reference' in sidebar 'sidebarInstallation', linking to 'https://search.maven.org/artifact/io.keploy/keploy-sdk'"
+  },
+  "sidebar.sidebarInstallation.doc.go-installation": {
+    "message": "Installation",
+    "description": "The label for the doc item 'Installation' in sidebar 'sidebarInstallation', linking to the doc go/installation"
+  },
+  "sidebar.sidebarInstallation.doc.go-integration": {
+    "message": "Integration",
+    "description": "The label for the doc item 'Integration' in sidebar 'sidebarInstallation', linking to the doc go/integration"
+  },
+  "sidebar.sidebarInstallation.doc.go-record": {
+    "message": "Record Test",
+    "description": "The label for the doc item 'Record Test' in sidebar 'sidebarInstallation', linking to the doc go/record"
+  },
+  "sidebar.sidebarInstallation.doc.go-replay": {
+    "message": "Replay Test ",
+    "description": "The label for the doc item 'Replay Test ' in sidebar 'sidebarInstallation', linking to the doc go/replay"
+  },
+  "sidebar.sidebarInstallation.doc.java-installation": {
+    "message": "Installation",
+    "description": "The label for the doc item 'Installation' in sidebar 'sidebarInstallation', linking to the doc java/installation"
+  },
+  "sidebar.sidebarInstallation.doc.java-integration": {
+    "message": "Integration",
+    "description": "The label for the doc item 'Integration' in sidebar 'sidebarInstallation', linking to the doc java/integration"
+  },
+  "sidebar.sidebarInstallation.doc.java-record": {
+    "message": "Record Test",
+    "description": "The label for the doc item 'Record Test' in sidebar 'sidebarInstallation', linking to the doc java/record"
+  },
+  "sidebar.sidebarInstallation.doc.java-replay": {
+    "message": "Replay Test ",
+    "description": "The label for the doc item 'Replay Test ' in sidebar 'sidebarInstallation', linking to the doc java/replay"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "version.label": {
+    "message": "2.0.0",
+    "description": "The label for version 2.0.0"
+  },
+  "sidebar.sidebarExplanation.category.Explanation": {
+    "message": "Explanation",
+    "description": "The label for category 'Explanation' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Hacktoberfest'24": {
+    "message": "Hacktoberfest'24",
+    "description": "The label for category 'Hacktoberfest'24' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Running Keploy": {
+    "message": "Running Keploy",
+    "description": "The label for category 'Running Keploy' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.CI/CD Integration": {
+    "message": "CI/CD Integration",
+    "description": "The label for category 'CI/CD Integration' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Test Coverage Generation": {
+    "message": "Test Coverage Generation",
+    "description": "The label for category 'Test Coverage Generation' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.QuickStarts": {
+    "message": "QuickStarts",
+    "description": "The label for category 'QuickStarts' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Java (SpringBoot)": {
+    "message": "Java (SpringBoot)",
+    "description": "The label for category 'Java (SpringBoot)' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Golang": {
+    "message": "Golang",
+    "description": "The label for category 'Golang' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Python": {
+    "message": "Python",
+    "description": "The label for category 'Python' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Javascript": {
+    "message": "Javascript",
+    "description": "The label for category 'Javascript' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Rust": {
+    "message": "Rust",
+    "description": "The label for category 'Rust' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.C# (.NET Core)": {
+    "message": "C# (.NET Core)",
+    "description": "The label for category 'C# (.NET Core)' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Keploy-Cloud ☁️": {
+    "message": "Keploy-Cloud ☁️",
+    "description": "The label for category 'Keploy-Cloud ☁️' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Resources": {
+    "message": "Resources",
+    "description": "The label for category 'Resources' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.doc.Installation": {
+    "message": "Installation",
+    "description": "The label for the doc item 'Installation' in sidebar 'sidebarExplanation', linking to the doc server/installation"
+  },
+  "sidebar.sidebarContributionGuide.category.Contribute": {
+    "message": "Contribute",
+    "description": "The label for category 'Contribute' in sidebar 'sidebarContributionGuide'"
+  }
+}

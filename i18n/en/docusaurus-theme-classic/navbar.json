@@ -1,0 +1,38 @@
+{
+  "logo.alt": {
+    "message": "Keploy logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Products": {
+    "message": "Products",
+    "description": "Navbar item with label Products"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Contribution Guide": {
+    "message": "Contribution Guide",
+    "description": "Navbar item with label Contribution Guide"
+  },
+  "item.label.Integration Testing": {
+    "message": "Integration Testing",
+    "description": "Navbar item with label Integration Testing"
+  },
+  "item.label.API Testing (AI)": {
+    "message": "API Testing (AI)",
+    "description": "Navbar item with label API Testing (AI)"
+  },
+  "item.label.Tech Blogs": {
+    "message": "Tech Blogs",
+    "description": "Navbar item with label Tech Blogs"
+  },
+  "item.label.Community Articles": {
+    "message": "Community Articles",
+    "description": "Navbar item with label Community Articles"
+  },
+  "item.label.Glossary": {
+    "message": "Glossary",
+    "description": "Navbar item with label Glossary"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "keploy-docs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "clean": "rimraf build",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "wnrite-heading-ids": "docusaurus write-heading-ids",
+    "format": "prettier --write .",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  },
+  "dependencies": {
+    "@docsearch/core": "^4.5.0",
+    "@docsearch/react": "^4.5.0",
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/plugin-sitemap": "^3.7.0",
+    "@docusaurus/preset-classic": "^3.7.0",
+    "@mdx-js/react": "^3.0.0",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
+    "clsx": "^2.0.0",
+    "lint": "^0.8.19",
+    "lucide-react": "^0.544.0",
+    "prism-react-renderer": "^2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.5.0",
+    "react-player": "^2.6.0",
+    "remark-typescript-tools": "1.0.9",
+    "typescript": "5",
+    "uuid": "^8.3.2",
+    "webpack-font-preload-plugin": "^1.5.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 3 chrome version",
+      "last 3 firefox version",
+      "last 5 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@docusaurus/plugin-client-redirects": "^3.7.0",
+    "@tailwindcss/typography": "^0.5.0",
+    "autoprefixer": "^10.4.0",
+    "docusaurus": "^1.14.7",
+    "docusaurus-tailwindcss-loader": "file:plugins/docusaurus-tailwindcss-loader",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.23.2",
+    "husky": "^6.0.0",
+    "lint-staged": "^11.1.2",
+    "postcss": "^8.4.4",
+    "postcss-import": "^14.0.2",
+    "postcss-preset-env": "^7.4.1",
+    "prettier": "^2.5.1",
+    "prettier-plugin-tailwindcss": "^0.1.4",
+    "rimraf": "^6.0.1",
+    "tailwindcss": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0"
+  }
+}

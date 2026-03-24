@@ -1,0 +1,45 @@
+#
+# General redirects
+#
+/sdks-introduction         /application-development
+/get-started         /
+/glossary /concepts/reference/glossary
+
+#
+# Concept pages redirects
+#
+/concepts         /keploy-explained/introduction
+/keploy-explained        /keploy-explained/introduction
+/concepts/introduction        /keploy-explained/introduction
+
+# CONTENT -> CONCEPTS
+/content/what-*         /concepts/what-:splat
+
+#
+# Go pages redirects
+#
+/go/getting-started        /go
+/go/introduction        /go
+/go-activities         /go/activities
+/go/supported-frameworks        /go/supported-frameworks
+
+
+#
+# Server pages redirects
+#
+/server        /server/introduction
+/server-introduction         /server/introduction
+/server-installation         /server/introduction
+/sdk-installation        /server/sdk-installation
+
+#
+# Dev tools redirects
+#
+/devtools/ui-contrib-guide       /ui-contrib-guide
+
+
+# Redirect all v1 paths to v3 (with full docs path)
+/docs/1.0.0/*    /docs/3.0.0/:splat
+
+# Redirect all v2 paths to v3 (with full docs path)
+/docs/2.0.0/*    /docs/3.0.0/:splat
