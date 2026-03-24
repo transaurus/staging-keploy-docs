@@ -1,0 +1,107 @@
+{
+  "description": "Repository-specific fixes for keploy/docs",
+  "fixes": {
+    "versioned_sidebars/version-4.0.0-sidebars.json": [
+      {
+        "type": "replace",
+        "find": "          \"label\": \"FAQs\",\n          \"id\": \"keploy-explained/integration-testing-faq\"",
+        "replace": "          \"label\": \"FAQs\",\n          \"key\": \"integration-testing-faq\",\n          \"id\": \"keploy-explained/integration-testing-faq\"",
+        "comment": "Duplicate sidebar label 'FAQs' — add unique key to integration-testing-faq entry"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"FAQs\",\n          \"id\": \"keploy-explained/api-testing-faq\"",
+        "replace": "          \"label\": \"FAQs\",\n          \"key\": \"api-testing-faq\",\n          \"id\": \"keploy-explained/api-testing-faq\"",
+        "comment": "Duplicate sidebar label 'FAQs' — add unique key to api-testing-faq entry"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"FAQs\",\n          \"id\": \"keploy-explained/unit-testing-faq\"",
+        "replace": "          \"label\": \"FAQs\",\n          \"key\": \"unit-testing-faq\",\n          \"id\": \"keploy-explained/unit-testing-faq\"",
+        "comment": "Duplicate sidebar label 'FAQs' — add unique key to unit-testing-faq entry"
+      }
+    ],
+    "versioned_sidebars/version-3.0.0-sidebars.json": [
+      {
+        "type": "replace",
+        "find": "          \"label\": \"FAQs\",\n          \"id\": \"keploy-explained/integration-testing-faq\"",
+        "replace": "          \"label\": \"FAQs\",\n          \"key\": \"integration-testing-faq\",\n          \"id\": \"keploy-explained/integration-testing-faq\"",
+        "comment": "Duplicate sidebar label 'FAQs' — add unique key to integration-testing-faq entry"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"FAQs\",\n          \"id\": \"keploy-explained/api-testing-faq\"",
+        "replace": "          \"label\": \"FAQs\",\n          \"key\": \"api-testing-faq\",\n          \"id\": \"keploy-explained/api-testing-faq\"",
+        "comment": "Duplicate sidebar label 'FAQs' — add unique key to api-testing-faq entry"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"FAQs\",\n          \"id\": \"keploy-explained/unit-testing-faq\"",
+        "replace": "          \"label\": \"FAQs\",\n          \"key\": \"unit-testing-faq\",\n          \"id\": \"keploy-explained/unit-testing-faq\"",
+        "comment": "Duplicate sidebar label 'FAQs' — add unique key to unit-testing-faq entry"
+      }
+    ],
+    "versioned_sidebars/version-1.0.0-sidebars.json": [
+      {
+        "type": "replace",
+        "find": "          \"label\": \"Installation\",\n          \"id\": \"go/installation\"",
+        "replace": "          \"label\": \"Installation\",\n          \"key\": \"go-installation\",\n          \"id\": \"go/installation\"",
+        "comment": "Duplicate label 'Installation' in sidebarInstallation — add unique key for go/installation"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"Integration\",\n          \"id\": \"go/integration\"",
+        "replace": "          \"label\": \"Integration\",\n          \"key\": \"go-integration\",\n          \"id\": \"go/integration\"",
+        "comment": "Duplicate label 'Integration' in sidebarInstallation — add unique key for go/integration"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"Record Test\",\n          \"id\": \"go/record\"",
+        "replace": "          \"label\": \"Record Test\",\n          \"key\": \"go-record\",\n          \"id\": \"go/record\"",
+        "comment": "Duplicate label 'Record Test' in sidebarInstallation — add unique key for go/record"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"Replay Test \",\n          \"id\": \"go/replay\"",
+        "replace": "          \"label\": \"Replay Test \",\n          \"key\": \"go-replay\",\n          \"id\": \"go/replay\"",
+        "comment": "Duplicate label 'Replay Test' in sidebarInstallation — add unique key for go/replay"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"Sample Quickstarts\",\n          \"collapsible\": true,\n          \"collapsed\": true,\n          \"link\": {\n            \"type\": \"doc\",\n            \"id\": \"go/quickstart/index\"",
+        "replace": "          \"label\": \"Sample Quickstarts\",\n          \"key\": \"go-sample-quickstarts\",\n          \"collapsible\": true,\n          \"collapsed\": true,\n          \"link\": {\n            \"type\": \"doc\",\n            \"id\": \"go/quickstart/index\"",
+        "comment": "Duplicate category 'Sample Quickstarts' in sidebarInstallation — add unique key for go category"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"Installation\",\n          \"id\": \"java/installation\"",
+        "replace": "          \"label\": \"Installation\",\n          \"key\": \"java-installation\",\n          \"id\": \"java/installation\"",
+        "comment": "Duplicate label 'Installation' in sidebarInstallation — add unique key for java/installation"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"Integration\",\n          \"id\": \"java/integration\"",
+        "replace": "          \"label\": \"Integration\",\n          \"key\": \"java-integration\",\n          \"id\": \"java/integration\"",
+        "comment": "Duplicate label 'Integration' in sidebarInstallation — add unique key for java/integration"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"Record Test\",\n          \"id\": \"java/record\"",
+        "replace": "          \"label\": \"Record Test\",\n          \"key\": \"java-record\",\n          \"id\": \"java/record\"",
+        "comment": "Duplicate label 'Record Test' in sidebarInstallation — add unique key for java/record"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"Replay Test \",\n          \"id\": \"java/replay\"",
+        "replace": "          \"label\": \"Replay Test \",\n          \"key\": \"java-replay\",\n          \"id\": \"java/replay\"",
+        "comment": "Duplicate label 'Replay Test' in sidebarInstallation — add unique key for java/replay"
+      },
+      {
+        "type": "replace",
+        "find": "          \"label\": \"Sample Quickstarts\",\n          \"collapsible\": true,\n          \"collapsed\": true,\n          \"link\": {\n            \"type\": \"doc\",\n            \"id\": \"java/quickstart/index\"",
+        "replace": "          \"label\": \"Sample Quickstarts\",\n          \"key\": \"java-sample-quickstarts\",\n          \"collapsible\": true,\n          \"collapsed\": true,\n          \"link\": {\n            \"type\": \"doc\",\n            \"id\": \"java/quickstart/index\"",
+        "comment": "Duplicate category 'Sample Quickstarts' in sidebarInstallation — add unique key for java category"
+      }
+    ]
+  }
+}
