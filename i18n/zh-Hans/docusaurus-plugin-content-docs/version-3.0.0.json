@@ -1,0 +1,82 @@
+{
+  "version.label": {
+    "message": "3.0.0",
+    "description": "The label for version 3.0.0"
+  },
+  "sidebar.sidebarExplanation.category.Integration Testing": {
+    "message": "Integration Testing",
+    "description": "The label for category 'Integration Testing' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Explanation": {
+    "message": "Explanation",
+    "description": "The label for category 'Explanation' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.QuickStarts": {
+    "message": "QuickStarts",
+    "description": "The label for category 'QuickStarts' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Java": {
+    "message": "Java",
+    "description": "The label for category 'Java' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Golang": {
+    "message": "Golang",
+    "description": "The label for category 'Golang' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Python": {
+    "message": "Python",
+    "description": "The label for category 'Python' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Javascript": {
+    "message": "Javascript",
+    "description": "The label for category 'Javascript' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.C# (.NET Core)": {
+    "message": "C# (.NET Core)",
+    "description": "The label for category 'C# (.NET Core)' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.CI/CD Integration": {
+    "message": "CI/CD Integration",
+    "description": "The label for category 'CI/CD Integration' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Test Coverage Integration": {
+    "message": "Test Coverage Integration",
+    "description": "The label for category 'Test Coverage Integration' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.API Testing": {
+    "message": "API Testing",
+    "description": "The label for category 'API Testing' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Unit Testing": {
+    "message": "Unit Testing",
+    "description": "The label for category 'Unit Testing' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.category.Integration": {
+    "message": "Integration",
+    "description": "The label for category 'Integration' in sidebar 'sidebarExplanation'"
+  },
+  "sidebar.sidebarExplanation.doc.Installation": {
+    "message": "Installation",
+    "description": "The label for the doc item 'Installation' in sidebar 'sidebarExplanation', linking to the doc server/installation"
+  },
+  "sidebar.sidebarExplanation.doc.Troubleshooting Guide": {
+    "message": "Troubleshooting Guide",
+    "description": "The label for the doc item 'Troubleshooting Guide' in sidebar 'sidebarExplanation', linking to the doc keploy-explained/common-errors"
+  },
+  "sidebar.sidebarExplanation.doc.integration-testing-faq": {
+    "message": "FAQs",
+    "description": "The label for the doc item 'FAQs' in sidebar 'sidebarExplanation', linking to the doc keploy-explained/integration-testing-faq"
+  },
+  "sidebar.sidebarExplanation.doc.api-testing-faq": {
+    "message": "FAQs",
+    "description": "The label for the doc item 'FAQs' in sidebar 'sidebarExplanation', linking to the doc keploy-explained/api-testing-faq"
+  },
+  "sidebar.sidebarExplanation.doc.unit-testing-faq": {
+    "message": "FAQs",
+    "description": "The label for the doc item 'FAQs' in sidebar 'sidebarExplanation', linking to the doc keploy-explained/unit-testing-faq"
+  },
+  "sidebar.sidebarContributionGuide.category.Contribute": {
+    "message": "Contribute",
+    "description": "The label for category 'Contribute' in sidebar 'sidebarContributionGuide'"
+  }
+}

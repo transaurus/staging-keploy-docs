@@ -7,12 +7,16 @@ const FontPreloadPlugin = require("webpack-font-preload-plugin");
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   title: "Keploy Documentation",
   titleDelimiter: "🐰",
   tagline: "API Test Generator Tool",
   url: "https://keploy.io",
   baseUrl: "/docs/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: 'warn',
   trailingSlash: true,
   favicon: "img/favicon.png",
   organizationName: "keploy", // Usually your GitHub org/user name.
